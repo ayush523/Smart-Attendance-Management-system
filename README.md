@@ -4,7 +4,7 @@
 
 ### 1.  Download the repository on your local computer.
 
-https://github.com/prabhat-123/Attendance_System_Using_Face_Recognition.git
+https://github.com/ayush523/Smart-Attendance-Management-system
 
 
 ### 2. After downloading, you have to open Command prompt/Anaconda prompt/Visual studio terminal to run this project.
